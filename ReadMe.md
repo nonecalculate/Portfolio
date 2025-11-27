@@ -23,7 +23,7 @@
 ## 🧩 주요 프로젝트
 
 ### 1. Ascend From The Abyss
-![프로젝트 데모](images/Image2.png)
+![프로젝트 데모](images/Image1.png)
 * 장르: 1인칭 호러 어드벤처
 * 역할: 언리얼 엔진 클라이언트 개발
 * 주요 구현 기능:
@@ -36,7 +36,7 @@
 * 상세 코드 및 설명: Projects/AscendFromTheAbyss
 
 ### 2. 폐의록
-![프로젝트 데모](images/Image1.png)
+![프로젝트 데모](images/Image2.png)
 * 장르: 추출 기반 멀티플레이 PVE
 * 역할: 서브 리드, 인벤토리/제작/상점/드랍 시스템 개발
 * 주요 구현 기능:
