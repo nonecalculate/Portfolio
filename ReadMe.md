@@ -22,7 +22,19 @@
 
 ## 🧩 주요 프로젝트
 
-### 1. Ascend From The Abyss
+### 1. 폐의록
+![프로젝트 데모](images/Image2.png)
+* 장르: 추출 기반 멀티플레이 PVE, PVP
+* 역할: 서브 리드, 인벤토리/제작/상점/드랍 로컬 세이브 데이터 공유 시스템 개발 및 리슨 서버 스팀 연동
+* 주요 구현 기능:
+
+  * 인벤토리 시스템 확장 및 아이템 레어리티 적용
+  * 드랍 테이블, 상점, 제작 시스템 로직 설계
+  * Listen 서버 환경에서 로컬 기반 세이브, 서버 권위 기반 로드 구현
+* 영상 링크: https://www.youtube.com/watch?v=LPgUK3iawyQ&ab_channel=PayRockGames
+* 상세 코드 및 설명: Projects/PyeUiRok
+
+### 2. Ascend From The Abyss
 ![프로젝트 데모](images/Image1.png)
 * 장르: 1인칭 호러 어드벤처
 * 역할: 1인 개발
@@ -34,18 +46,6 @@
 * 영상 링크: https://drive.google.com/file/d/1GCfWGjEd3i2mCKikukI2BhKvKL2_nmGp/view
 
 * 상세 코드 및 설명: Projects/AscendFromTheAbyss
-
-### 2. 폐의록
-![프로젝트 데모](images/Image2.png)
-* 장르: 추출 기반 멀티플레이 PVE
-* 역할: 서브 리드, 인벤토리/제작/상점/드랍 시스템 개발
-* 주요 구현 기능:
-
-  * 인벤토리 시스템 확장 및 아이템 레어리티 적용
-  * 드랍 테이블, 상점, 제작 시스템 로직 설계
-  * Listen 서버 환경에서 서버 권위 기반 저장/로드 구현
-* 영상 링크: https://www.youtube.com/watch?v=LPgUK3iawyQ&ab_channel=PayRockGames
-* 상세 코드 및 설명: Projects/PyeUiRok
 
 ---
 
