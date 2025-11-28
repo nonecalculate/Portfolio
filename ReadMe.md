@@ -31,8 +31,10 @@
   * 인벤토리 시스템 확장 및 아이템 레어리티 적용
   * 드랍 테이블, 상점, 제작 시스템 로직 설계
   * Listen 서버 환경에서 로컬 기반 세이브, 서버 권위 기반 로드 구현
-* 영상 링크: https://www.youtube.com/watch?v=LPgUK3iawyQ&ab_channel=PayRockGames
+  * 버그 트래킹 및 트러블 슈팅
+* 영상 링크: ![폐의록 영상](https://www.youtube.com/watch?v=LPgUK3iawyQ&ab_channel=PayRockGames)
 * 상세 코드 및 설명: Projects/PyeUiRok
+
 
 ### 2. Ascend From The Abyss
 ![프로젝트 데모](images/Image1.png)
@@ -43,10 +45,34 @@
   * 템플릿 분석 및 기능 확장
   * 상호작용 시스템 개편
   * UI 및 이벤트 흐름 제어
-* 영상 링크: https://drive.google.com/file/d/1GCfWGjEd3i2mCKikukI2BhKvKL2_nmGp/view
-
+* 영상 링크: ![데모 영상](https://drive.google.com/file/d/1GCfWGjEd3i2mCKikukI2BhKvKL2_nmGp/view)
 * 상세 코드 및 설명: Projects/AscendFromTheAbyss
 
+
+### 3. Sky Wars
+![프로젝트 데모](images/Image3.png)
+* 장르: 탑뷰 
+* 역할: 팀장, 리슨 서버 연동 및 레벨 디자인, 멀티 환경에서의 게임 스테이트, 게임 모드 개발.
+* 주요 구현 기능:
+
+  * 스팀 어드밴스드 세션을 이용한 Listen 서버 구현 및 관련 위젯 제작
+  * 레벨 디자인 및 레벨 배치
+  * 버그 트래킹 및 트러블 슈팅
+  * PM
+* 영상 링크: ![Sky Wars 영상](https://www.youtube.com/watch?v=WcfjTOyUUuU&ab_channel=Cha_n0)
+* 상세 코드 및 설명: Projects/SKYWARS
+
+* ### 4. Get To Job
+![프로젝트 데모](images/Image4.png)
+* 장르: 탑뷰 
+* 역할: 팀장, 리슨 서버 연동 및 레벨 디자인, 멀티 환경에서의 게임 스테이트, 게임 모드 개발.
+* 주요 구현 기능:
+
+  * Behavior Tree, BlackBoard 를 이용한 AI, 보스 로직 구현
+  * Actor 를 이용한 AI 패트롤 포인트, Spawner 구현
+  * Behavior Tree 심화 과정을 이용한 보스 공격 패턴 및 원거리 공격 구현
+  * 버그 트래킹 및 트러블 슈팅
+* 상세 코드 및 설명: Projects/Get To Job
 ---
 
 ## 🔧 기술 샘플
